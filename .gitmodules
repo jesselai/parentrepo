@@ -1,0 +1,8 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = https://github.com/jesselai/subrepo.git
+	branch = feature-1.0.0
+[submodule "subrepo2"]
+	path = subrepo2
+	url = https://github.com/jesselai/subrepo.git
+	branch = feature-1.0.0
